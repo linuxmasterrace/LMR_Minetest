@@ -1,0 +1,3 @@
+[submodule "mods/lmrmodpack"]
+	path = mods/lmrmodpack
+	url = https://github.com/linuxmasterrace/LMR_Minetest_Modpack
